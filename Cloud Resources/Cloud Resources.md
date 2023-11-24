@@ -1,0 +1,25 @@
+- Azure
+	- Owner (Account)
+		- Azure AD (uses Roles to interact with Resources)
+			- Users
+				- Groups
+				- Service Principals
+		 -  Subscription
+			- Resource Groups
+				- Resources
+					- VMs
+					- Databases
+					- Storage
+
+- AWS
+	- (Organisations)
+		- Account (Email Address becomes Root User)
+			- IAM Users
+				- (Region)
+					- Resources
+
+- Google Cloud
+	- Billing Account
+		- Projects
+			- APIs
+				- Resources

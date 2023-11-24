@@ -1,0 +1,4 @@
+- Virtual machines
+- `myFirstAzureVM`
+- Restart
+	- Yes

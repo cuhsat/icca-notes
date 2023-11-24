@@ -1,0 +1,4 @@
+- Minimise root user access
+- Organise into groups
+- Use dynamic management when possible
+- Audit and review user configuration

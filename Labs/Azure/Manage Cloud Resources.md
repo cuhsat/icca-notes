@@ -1,0 +1,8 @@
+- All Services
+- Virtual machines
+- Storage accounts
+- Databases
+	- Azure Cosmos DB
+- Virtual networks
+- Resource groups
+	- Pin Resource groups to dashboard (`test`)

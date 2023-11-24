@@ -1,0 +1,5 @@
+- Go to EC2 service
+- Instances running
+- Click checkbox
+- Instance state > Reboot instance
+- Reboot

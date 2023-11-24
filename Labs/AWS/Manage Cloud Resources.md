@@ -1,0 +1,11 @@
+- Login
+- Upper right corner
+- Region drop down select
+- Account name > Account
+- Upper hand corner
+- Services
+	- EC2
+	- S3
+	- Athena
+	- Search for lightsail
+		- *Look at options for lightsail*

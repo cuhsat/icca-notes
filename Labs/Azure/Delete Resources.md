@@ -1,0 +1,5 @@
+- Select all resources which are created
+- Delete
+	- `yes`
+	- Force delete
+	- Delete

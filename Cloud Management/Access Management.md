@@ -1,0 +1,21 @@
+- Azure
+	- Users, Groups, Roles
+	- Federated users
+
+- AWS
+	- Users, Groups, Permissions
+	- Federated users
+	- Policies grant permissions
+		- Effect (allow/deny)
+		- Action
+		- Resources
+		- Conditions
+
+- GCP
+	- Users, Groups, Roles, Policies
+	- Federated users (preview?)
+	- Policies link users to roles on resources
+		- User
+		- Role
+		- Resource
+		- Condition

@@ -1,0 +1,10 @@
+- API & Services
+	- Enabled APIs & services
+	- Compute Engine API
+	- Make sure the API is enabled
+- Cloud storage
+	- Buckets
+-  VPC network
+	- VPC networks
+- Search cloud run
+- Cloud run

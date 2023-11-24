@@ -1,0 +1,7 @@
+- Open VM instances
+- Check for Running
+- Three dots upper right corner
+- STOP
+- STOP
+- START / RESUME
+- START

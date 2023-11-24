@@ -1,0 +1,4 @@
+- Cloud user
+- Guest user
+- Hybrid user (Azure AD) 
+- Federated user (From outside the cloud)

@@ -1,0 +1,40 @@
+> https://calculator.aws/#/
+
+- Create estimate
+- Search EC2
+	- Amazon EC2
+	- Configure
+	- EC2 instance specifications
+		- Linux
+		- 4 vCPUs
+		- 16 GiB RAM
+	- Elastic Block Storage (EBS)
+		- General purpose SSD (gp2)
+		- 100 GB
+	- Save and add service
+- Search MzSQL
+	- Configure
+	- Amazon RDS for MySQL
+	- MySQL instance specifications
+		- db.t3.small
+		- 2 vCPUs
+		- 2 GiB RAM
+	- Storage
+		- General Purpose SSD (gp2)
+		- 100 GB
+	- Save and add service
+- Search S3
+	- Configure
+	- Amazon Simple Storage Service (S3)
+		- Select S3 Storage classes and other features
+		- S3 Standard tier
+			- 1 TB per Month
+			- 2000000 PUT, COPY, POST, LIST
+			- 2000000 GET, SELECT and all other
+			- Other amounts 0
+		- Data Transfer service
+			- Inbound Data Transfer
+			- Outbound Data Transfer
+				- Internet 10 GB per month
+	- Save and view summary
+- *Check estimated monthly cost*
